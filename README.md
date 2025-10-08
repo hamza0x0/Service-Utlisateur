@@ -16,6 +16,3 @@ Microservice de gestion des utilisateurs réalisé avec Spring Boot et PostgreSQ
 - PostgreSQL
 - (Facultatif) IDE comme VS Code, IntelliJ IDEA, Eclipse
 
-## Installation
-
-1. **Clonez le projet**
